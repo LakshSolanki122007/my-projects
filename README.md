@@ -1,1 +1,1 @@
-This repository contains C programming exercises and practice projects created by Laksh Solanki as part of their BCA studies. The code is organized to demonstrate core C concepts and common problem-solving patterns.
+This repository contains C programming exercises and practice projects created by Laksh Solanki as part of my BCA studies. The code is organized to demonstrate core C concepts and common problem-solving patterns.
