@@ -1,1 +1,1 @@
-Hi this is Laksh Solanki these are my practice codes I am an BCA student and these all are C language releated practice programs
+This repository contains C programming exercises and practice projects created by Laksh Solanki as part of their BCA studies. The code is organized to demonstrate core C concepts and common problem-solving patterns.
